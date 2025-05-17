@@ -133,7 +133,7 @@ def compute_metrics(p):
 
 [building (1).png](https://github.com/AvEjpg/Intensive4/blob/main/building%20(1).png) - Маска для облака слов
 
-[разметка комментариев 2.csv](https://github.com/AvEjpg/Intensive4/blob/main/разметка%20комментариев%202.csv) - Пазметка, нужна для сравнения
+[разметка комментариев 2.csv](https://github.com/AvEjpg/Intensive4/blob/main/разметка%20комментариев%202.csv) - Разметка, нужна для сравнения
 
 [?](-) - Презентация к работе (пока нет)
 
