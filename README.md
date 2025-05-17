@@ -1,7 +1,11 @@
 # Intensive4
 
 <details>
-<summary><h2>Многоклассовая классификация пользовательских комментариев на русском языке</h2></summary>
+  <summary style="display: flex; align-items: center; gap: 8px;">
+    <h2 style="display: inline; margin: 0; font-size: 1.5em;">
+      Многоклассовая классификация пользовательских комментариев на русском языке
+    </h2>
+  </summary>
 
 Проект направлен на построение и обучение модели для мультиразметочной классификации пользовательских комментариев с использованием предобученной модели [blanchefort/rubert-base-cased-sentiment](https://huggingface.co/blanchefort/rubert-base-cased-sentiment).
 
